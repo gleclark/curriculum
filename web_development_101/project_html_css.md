@@ -962,7 +962,7 @@ There are a couple of ways to go about doing this, but the simplest is this:
 * [nlcooperski's Solution (Easy)](https://github.com/nlcooperski/google-homepage) | [View in Browser](https://nlcooperski.github.io/google-homepage/)
 * [Leonard's Solution (Easy & Difficult)](https://github.com/Kr0ntar/google-homepage/) (https://github.com/Kr0ntar/google_search_results_page/) | [View in Browser (Easy)](https://kr0ntar.github.io/google-homepage/) | [View in Browser (Difficult)](https://kr0ntar.github.io/google_search_results_page/)
 * [Pat's solution (easy)](https://github.com/Pat878/google-homepage) | [View in browser](https://pat878.github.io/google-homepage/)
-
+* [Glenda's solution (easy)](https://github.com/gleclark/google-homepage1) | [View in browser](https://gleclark.github.io/google-homepage1/)
 ## Additional Resources
 
 *This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something*
